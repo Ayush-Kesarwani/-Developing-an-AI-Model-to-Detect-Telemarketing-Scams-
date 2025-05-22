@@ -1,5 +1,5 @@
 # -Developing-an-AI-Model-to-Detect-Telemarketing-Scams-
-Architected an AI-driven model to detect purpose and legitmacy of the calls with 92% accuracy using OpenAI’s GPT-4 and Whisper models.
+Architected an AI-driven model to detect purpose and legitmacy of the calls with 93.05% accuracy using OpenAI’s GPT-4 and Whisper models.
 
 Implementation Workflow
 The implementation involves several stages, including audio preprocessing, transcription, scam classification, and result generation. The workflow is as follows:
